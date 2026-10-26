@@ -29,6 +29,7 @@ requirements:
     - osmnx >=2
     - geojson
     - tqdm
+    - bikenetlib
 
 tests:
   - python:
@@ -43,8 +44,8 @@ about:
   summary: BikeNetKit Python package to detect gaps in developed bicycle networks
   license: AGPL-3.0-only
   license_file: LICENSE
-  homepage: https://bikenetkit.org/
-  documentation: https://docs.bikenetkit.org/FixBikeNet/
+  homepage: https://bikenetkit.org/fixbikenet
+  documentation: https://docs.bikenetkit.org/FixBikeNet
   repository: https://github.com/BikeNetKit/FixBikeNet
 
 extra:
