@@ -3,7 +3,7 @@ About fixbikenet-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/fixbikenet-feedstock/blob/main/LICENSE.txt)
 
-Home: https://bikenetkit.org/
+Home: https://bikenetkit.org/fixbikenet
 
 Package license: AGPL-3.0-only
 
@@ -11,7 +11,7 @@ Summary: BikeNetKit Python package to detect gaps in developed bicycle networks
 
 Development: https://github.com/BikeNetKit/FixBikeNet
 
-Documentation: https://docs.bikenetkit.org/FixBikeNet/
+Documentation: https://docs.bikenetkit.org/FixBikeNet
 
 Current build status
 ====================
