@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   python_min: "3.12"
-  version: "0.10.1"
+  version: "0.10.2"
 
 package:
   name: fixbikenet
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/f/fixbikenet/fixbikenet-${{ version }}.tar.gz
-  sha256: 3423ab94d7a0a1f6aac6ef8fe055e869ad6f40a41413c7233e01153116ba8053
+  sha256: 103f242fe38ddddd2f19504db4817f25905ad123657162f2d50ccf022492364b
 
 build:
   number: 0
